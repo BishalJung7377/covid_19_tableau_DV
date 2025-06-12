@@ -14,9 +14,11 @@ The primary dataset used in this project is:
 
 **`country_wise_latest.csv`**
 
+[View Dataset](https://www.kaggle.com/datasets/imdevskp/corona-virus-report)
+
 ### 📊 Columns Included:
 
-- **Country/Region**: Name of the country
+- **Country/Region**: All Country in the World
 - **Confirmed**: Total confirmed COVID-19 cases
 - **Deaths**: Total deaths due to COVID-19
 - **Recovered**: Number of recoveries
@@ -53,12 +55,5 @@ A horizontal bar chart ranks countries by the number of confirmed COVID-19 cases
 
 This project was developed using:
 
-- **Python** 🐍 (Pandas, Matplotlib, Plotly)
-- **Tableau** or **Power BI** for visualization
-- **Jupyter Notebook** for data exploration
+- **Tableau** for visualization
 - **GitHub** for version control and collaboration
-- **GeoJSON** or **Shapefiles** for mapping
-
----
-
-## 📂 Project Structure
